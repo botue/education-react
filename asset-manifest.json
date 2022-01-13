@@ -34,12 +34,13 @@
   "/p__user__login.css": "/education-react/p__user__login.af4ed2dc.chunk.css",
   "/p__user__login.js": "/education-react/p__user__login.9bc247a2.async.js",
   "/umi.css": "/education-react/umi.04123adf.css",
-  "/umi.js": "/education-react/umi.05b6234f.js",
+  "/umi.js": "/education-react/umi.6545b832.js",
   "/favicon.ico": "/education-react/favicon.ico",
   "/favicon.png": "/education-react/favicon.png",
   "/icons/icon-128x128.png": "/education-react/icons/icon-128x128.png",
   "/icons/icon-192x192.png": "/education-react/icons/icon-192x192.png",
   "/icons/icon-512x512.png": "/education-react/icons/icon-512x512.png",
   "/index.html": "/education-react/index.html",
+  "/mock/user.json": "/education-react/mock/user.json",
   "/static/logo.png": "/education-react/static/logo.b451a897.png"
 }
